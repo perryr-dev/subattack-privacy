@@ -1,2 +1,3 @@
 # subattack-privacy
-Provacy Policy for Sub Attack! game 
+Privacy Policy for Sub Attack! game 
+Support Policy for Sub Attack! game
